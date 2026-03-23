@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Regular Expense" section_id="3f96f1e983733a10d4d69696feaad3c5" sys_domain="global" table="x_1110985_budget_0_budget" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>regular_expense</element>
+            <position>0</position>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:25:44</sys_created_on>
+            <sys_id>b396f1e983733a10d4d69696feaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Regular Expense" display_value="Regular Expense" name="x_1110985_budget_0_budget" sys_domain="global" view="Default view">3f96f1e983733a10d4d69696feaad3c5</sys_ui_section>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:25:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:25:44</sys_created_on>
+            <sys_id>7f96f1e983733a10d4d69696feaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Regular Expense" display_value="Regular Expense" name="x_1110985_budget_0_budget" sys_domain="global" view="Default view">3f96f1e983733a10d4d69696feaad3c5</sys_ui_section>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:25:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Regular Expense</caption>
+            <header>false</header>
+            <name>x_1110985_budget_0_budget</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:25:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f96f1e983733a10d4d69696feaad3c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1110985_budget_0_budget</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Budget Tracker" source="x_1110985_budget_0">ee6e61a983333a10d4d69696feaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Budget Tracker">ee6e61a983333a10d4d69696feaad379</sys_scope>
+            <sys_update_name>sys_ui_section_3f96f1e983733a10d4d69696feaad3c5</sys_update_name>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:25:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

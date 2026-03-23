@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="42fea5e983333a10d4d69696feaad31f" label="Budget" max_length="40" name="x_1110985_budget_0_budget" type="collection"/>
+    <element db_object_id="42fea5e983333a10d4d69696feaad31f" label="Budget" max_length="40" name="x_1110985_budget_0_budget" type="collection">
+        <element label="Regular Expense" max_length="1000" name="regular_expense" type="string"/>
+        <element display="true" label="Title" max_length="100" name="title" type="string"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Miscellaneous" value="miscellaneous"/>
+                <element inactive_on_update="false" label="Outing" value="outing"/>
+                <element inactive_on_update="false" label="Grocery" value="grocery"/>
+                <element inactive_on_update="false" label="Regular Expense" value="regular_expense"/>
+            </choice>
+        </element>
+        <element label="Expense" max_length="20" name="expense" type="price"/>
+    </element>
 </database>
