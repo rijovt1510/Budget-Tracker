@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_1110985_budget_0_budget" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_1110985_budget_0_budget</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:16:25</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Budget Tracker" source="x_1110985_budget_0">ee6e61a983333a10d4d69696feaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Budget Tracker">ee6e61a983333a10d4d69696feaad379</sys_scope>
+            <sys_update_name>sys_choice_x_1110985_budget_0_budget_category</sys_update_name>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:16:25</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grocery</label>
+            <language>en</language>
+            <name>x_1110985_budget_0_budget</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:17:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:17:56</sys_updated_on>
+            <value>grocery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Miscellaneous</label>
+            <language>en</language>
+            <name>x_1110985_budget_0_budget</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:18:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:18:57</sys_updated_on>
+            <value>miscellaneous</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Outing</label>
+            <language>en</language>
+            <name>x_1110985_budget_0_budget</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:18:42</sys_updated_on>
+            <value>outing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Regular Expense</label>
+            <language>en</language>
+            <name>x_1110985_budget_0_budget</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rijo.v</sys_created_by>
+            <sys_created_on>2026-03-23 03:16:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rijo.v</sys_updated_by>
+            <sys_updated_on>2026-03-23 03:16:24</sys_updated_on>
+            <value>regular_expense</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
